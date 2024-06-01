@@ -1,5 +1,5 @@
 # Bem-vindo ao meu perfil!
-
+## Olá! Sou o Geovani  Silva
 ## Sobre mim
 - 👨‍💻 Desenvolvedor Full-Stack com foco em tecnologias web
 - 🌱 Atualmente aprimorando minhas habilidades em Kubernetes
@@ -11,29 +11,19 @@
   - Principais disciplinas: Algoritmos, Estrutura de Dados, Programação Orientada a Objetos, Desenvolvimento Web, Banco de Dados.
 
 ## Habilidades Técnicas
-- **HTML5**
-  - Experiência na criação de estruturas de páginas web semânticas e acessíveis.
-- **CSS**
-  - Habilidade em estilização de páginas web, criação de layouts responsivos e uso de frameworks como Bootstrap.
-- **JavaScript**
-  - Conhecimento em programação front-end, manipulação do DOM, e uso de bibliotecas como React.
-- **Banco de Dados SQL**
-  - Competência em modelagem de dados, escrita de consultas SQL e gerenciamento de bancos de dados relacionais.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 
 ## Meus Projetos
 - [Projeto 1](https://github.com/usuario/projeto1) - Sistema de gerenciamento de tarefas usando React e Node.js.
 - [Projeto 2](https://github.com/usuario/projeto2) - Aplicativo mobile de controle financeiro pessoal com React Native.
 
 ## Conecte-se comigo
-- [LinkedIn](https://linkedin.com/in/seu-perfil)
-- [Twitter](https://twitter.com/seu-usuario)
+-<a href="https://www.linkedin.com/in/geovani-silva-16b257149/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
 
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
-
-## Conquistas
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
