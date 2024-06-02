@@ -19,9 +19,7 @@
 
 
 ## Meus Projetos
-- [Projeto 1](https://github.com/GSSADS/Tela-de-login-/tree/main/Tela%20de%20Login) - Aqui crie uma Tela de Login usado HTML e CSS.
-- [Projeto 2](https://github.com/usuario/projeto2) - Aplicativo mobile de controle financeiro pessoal com React Native.
-
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML Icon" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS Icon" width="30" height="30"/> [Tela de Login](https://github.com/GSSADS/Tela-de-login-/tree/main/Tela%20de%20Login) - Aqui crie uma Tela de Login usado HTML e CSS.
 ## Conecte-se comigo
 -<a href="https://www.linkedin.com/in/geovani-silva-16b257149/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
