@@ -81,16 +81,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
-## 🤝 Conecte-se Comigo
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/seu-usuario-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 </div>
-
----
-
 <div align="center">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GSSADS.profile)
