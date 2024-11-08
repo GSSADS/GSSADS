@@ -1,28 +1,45 @@
-# Bem-vindo ao meu perfil!
-## Olá! Sou o Geovani  Silva
-## Sobre mim
-- 👨‍💻 Desenvolvedor Full-Stack com foco em tecnologias web
-- 🌱 Atualmente aprimorando minhas habilidades em Kubernetes
-- 💬 Pergunte-me sobre HTML5, CSS, JavaScript, e Banco de Dados SQL
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=24&lines=Bem-vindo+ao+meu+perfil!;Olá!+Sou+o+Geovani+Silva;Desenvolvedor+Full-Stack)
 
-## Formação Educacional
-- 🎓 **Análise e Desenvolvimento de Sistemas** - [Senac Maringá, Paraná](https://www.pr.senac.br) (2023 - Presente)
-  - Curso focado em desenvolvimento de software, análise de sistemas, banco de dados e redes.
+# 👋 Bem-vindo ao meu perfil!
+Sou Geovani Silva, um desenvolvedor Full-Stack apaixonado por tecnologia e sempre em busca de aprender algo novo!
+
+## 👨‍💻 Sobre mim
+- 💼 Desenvolvedor Full-Stack com foco em tecnologias web
+- 🌱 Atualmente aprimorando minhas habilidades em **Kubernetes**
+- 💬 Pergunte-me sobre **HTML5, CSS, JavaScript, e Banco de Dados SQL**
+
+## 🎓 Formação Educacional
+- **Análise e Desenvolvimento de Sistemas** - Senac Maringá, Paraná (2023 - Presente)  
+  Curso focado em desenvolvimento de software, análise de sistemas, banco de dados e redes.
   - Principais disciplinas: Algoritmos, Estrutura de Dados, Programação Orientada a Objetos, Desenvolvimento Web, Banco de Dados.
 
-## Habilidades Técnicas
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+## 🚀 Habilidades Técnicas
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 
+## 📂 Meus Projetos
 
-## Meus Projetos
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML Icon" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS Icon" width="30" height="30"/> [Tela de Login](https://github.com/GSSADS/Tela-de-login-/tree/main/Tela%20de%20Login) - Aqui crie uma Tela de Login usando HTML e CSS.
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML Icon" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS Icon" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Icon" width="30" height="30"/>
-[SITE AGRO](https://github.com/GSSADS/SiteAgro) - Aqui crie uma Site usando HTML,CSS e JavaScript.
-## Conecte-se comigo
--<a href="https://www.linkedin.com/in/geovani-silva-16b257149/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-</a>
+- **[Tela de Login](https://github.com/GSSADS/Tela-de-login-)**  
+  ![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=flat&logo=css3&logoColor=white)  
+  Criei uma tela de login usando HTML e CSS.
+
+- **[SITE AGRO](https://github.com/GSSADS/SiteAgro)**  
+  ![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=flat&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)  
+  Projeto de um site voltado para o setor agro usando HTML, CSS e JavaScript.
+
+## 📫 Conecte-se comigo
+- [LinkedIn](https://www.linkedin.com/in/seu-usuario-linkedin)
+
+---
+
+## 📊 Estatísticas do GitHub
+![Geovani's GitHub stats](https://github-readme-stats.vercel.app/api?username=GSSADS&show_icons=true&theme=default)
+
+---
+
