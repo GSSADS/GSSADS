@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=27&center=true&vCenter=true&lines=Bem-vindo+ao+meu+perfil!;Eu+sou+Geovani+Silva;Desenvolvedor+Full-Stack+e+Designer+Gráfico;Editor+de+Áudio+e+Vídeo;Apaixonado+por+Tecnologia!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=27&center=true&vCenter=true&lines=Bem-vindo+ao+meu+Perfil!;Eu+sou+Geovani+Silva;Desenvolvedor+Full-Stack+e+Designer+Gráfico;Editor+de+Áudio+e+Vídeo;Apaixonado+por+Tecnologia!)
 
 </div>
 
