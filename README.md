@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=27&center=true&vCenter=true&lines=Bem-vindo+ao+meu+perfil!;Eu+sou+Geovani+Silva;Desenvolvedor+Full-Stack;Apaixonado+por+Tecnologia!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=27&center=true&vCenter=true&lines=Bem-vindo+ao+meu+perfil!;Eu+sou+Geovani+Silva;Desenvolvedor+Full-Stack+e+Designer+Gráfico;Editor+de+Áudio+e+Vídeo;Apaixonado+por+Tecnologia!)
 
 </div>
 
@@ -8,7 +8,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Desenvolvedor-Full--Stack-blue?style=for-the-badge" alt="Desenvolvedor Full Stack"/>
-  <img src="https://img.shields.io/badge/Web%20Developer-orange?style=for-the-badge" alt="Web Developer"/>
+  <img src="https://img.shields.io/badge/Designer%20Gráfico-purple?style=for-the-badge" alt="Designer Gráfico"/>
+  <img src="https://img.shields.io/badge/Edição%20de%20Áudio%20e%20Vídeo-red?style=for-the-badge" alt="Edição de Áudio e Vídeo"/>
 </div>
 
 ---
@@ -20,16 +21,15 @@
 </div>
 
 - 💻 **Desenvolvedor Full-Stack** com foco em tecnologias web
-- 📈 Buscando sempre evoluir, atualmente aprimorando minhas habilidades em **Kubernetes**
-- 💡 Curioso e motivado por desafios
-- 🔥 Me pergunte sobre **HTML5, CSS, JavaScript, e Banco de Dados SQL**
+- 🎨 **Designer Gráfico** e **Editor de Áudio e Vídeo**
+- 📈 Sempre aprimorando, atualmente focado em **Kubernetes**
+- 💬 Pergunte-me sobre **HTML5, CSS, JavaScript, Banco de Dados SQL, Edição Gráfica, e Áudio e Vídeo**
 
 ---
 
 ## 🎓 Formação Educacional
 
 - **Análise e Desenvolvimento de Sistemas** - Senac Maringá, Paraná (2023 - Presente)
-  - Curso focado em desenvolvimento de software, análise de sistemas, banco de dados e redes.
   - Principais disciplinas: Algoritmos, Estrutura de Dados, Programação Orientada a Objetos, Desenvolvimento Web, Banco de Dados.
 
 ---
@@ -42,6 +42,9 @@
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%230077B5.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CorelDRAW-%23F8991D.svg?style=for-the-badge&logo=coreldraw&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vegas%20Pro-%23FF4C4C.svg?style=for-the-badge&logo=sony&logoColor=white"/>
 </div>
 
 ---
