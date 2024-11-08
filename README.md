@@ -81,29 +81,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
-
----
-
-<div align="center">
-  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GSSADS.profile)
-
-</div>
-<div align="center">
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GSSADS.profile)
-
-</div>
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=27&center=true&vCenter=true&lines=Bem-vindo+ao+meu+perfil!;Eu+sou+Geovani+Silva;Desenvolvedor+Full-Stack+e+Designer+Gráfico;Editor+de+Áudio+e+Vídeo;Apaixonado+por+Tecnologia!)
-
-</div>
-
----
-
-...
-
 ## 🤝 Conecte-se Comigo
 
 <div align="center">
